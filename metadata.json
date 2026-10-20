@@ -1,0 +1,6 @@
+{
+  "name": "Peta Cyberaya: Misi Koordinat",
+  "description": "Game pendidikan interaktif Matematik Tahun 5 topik Koordinat berorientasikan Cyberaya dan Ejen Ali dengan audio suara sebenar dan visual 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
